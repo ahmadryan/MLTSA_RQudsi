@@ -1,1 +1,0 @@
-/home/ahmadr/Desktop/GIT/mlts/upload.sh
