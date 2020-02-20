@@ -15,7 +15,7 @@ In this assignment, we fit a power law to the flux received from a gamma-ray
  3. Using L1 minimization.
  4. Using chi-square minimization, which takes into account the error in measuremnt.
  
- We do so by fitting a straight line on a log-log plot with time on the x-axis 
+ We do so by fitting a straight line on a *log-log* plot with time on the x-axis 
  and magnitude (used as a proxy to flux) on y-axis.
 
  The values of parameters using four methods changes only by a little amount, 
