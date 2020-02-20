@@ -2,7 +2,7 @@
 
 ### HW1 solution
 
->The file titled **HW1_RQudsi.ipynb** gives the solution to the problems of 
+The file titled **HW1_RQudsi.ipynb** gives the solution to the problems of 
 assignment 1. The solution was developed from a skeleton ipython notebook file
  provided by the professor. Work was done exclusively by RQ on this.
 
