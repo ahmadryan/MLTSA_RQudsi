@@ -23,7 +23,6 @@ In this assignment, we fit a power law to the flux received from a gamma-ray
  and intercept ( 0,07 and 0.18 respectively). Though it has not been shown in 
  the present notebook, but it was found that changing the initial guess does 
  not affect the final value of the solution.
- $y = \gamma$
 
 ### HW1 extra credit solution
 
