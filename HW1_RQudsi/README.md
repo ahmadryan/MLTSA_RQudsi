@@ -24,6 +24,8 @@ In this assignment, we fit a power law to the flux received from a gamma-ray
  the present notebook, but it was found that changing the initial guess does 
  not affect the final value of the solution.
 
+***
+
 ### HW1 extra credit solution
 
 The file titles **HW1_ExtraCredit_RQudsi.ipynb** gives out the solution for 
