@@ -1,4 +1,4 @@
-# Solution to assignment 1
+# Solution to assignment 2
 
 ### HW2 solution
 
