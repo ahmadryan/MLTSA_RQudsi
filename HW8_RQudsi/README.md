@@ -1,4 +1,4 @@
-HW6 solution
+HW8 solution
 The file titled HW5_RQUDSI.ipynb gives the solution to the problems of assignment 8. The solution was developed from a skeleton ipython notebook file provided by the professor. Work was done along with the class mate Amey Rachel.
 
 honestly there wasn't much to be done in this assignment, though I did learn a lot of things while doing it.
